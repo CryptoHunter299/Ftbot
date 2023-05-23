@@ -4,7 +4,7 @@ import telebot
 
 # inisialisasi Token Bot Kita
 
-bot = telebot.TeleBot('TOKENKALIAN')
+bot = telebot.TeleBot('5990596453:AAEwuGlra-ku5B5eU8qHUidZLeJWT5P5lEk')
 
 # Menghandle Pesan /start
 
